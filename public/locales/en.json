@@ -2,5 +2,12 @@
   "languageSelector": "Select Language",
   "ru": "RU",
   "tj": "TJ",
-  "en": "EN"
+  "en": "EN",
+  "footer":{
+    "home":"Home",
+    "search":"Search",
+    "add":"Add new publication",
+    "mesege":"Mesege",
+    "profil":"Profil"
+  }
 }
